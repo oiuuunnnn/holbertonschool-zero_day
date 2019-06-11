@@ -1,0 +1,1 @@
+Emacs open command readme
